@@ -4,10 +4,12 @@ The research questions I would like to address are:
 1. What factors influence property prices in Hong Kong?
 2. How accurately can machine learning predict future prices?
 3. What trends can be identified from the data?
-   For more information read the file "TH project proposal.docv"
+For more information as to ovrall objectives see the file "TH project proposal.docv"
 This project uniquely applies advanced machine learning to the Hong Kong property market, offering deeper insights and more accurate predictions than traditional methods.
 ## To execute/run this project
 1. Open the python code M5ver2.ipynb
 2. Upload the dataset DatasetV2.csv
 3. Upload the dataset Propertydataraw2.csv
 4. Run M5ver2.ipynb
+## To Understand the probelsm and current ststus
+1. Open the document called "Proejct for Module 5 - draft" which is a DRAFT report which shows current progress
