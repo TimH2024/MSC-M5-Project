@@ -12,4 +12,4 @@ This project uniquely applies advanced machine learning to the Hong Kong propert
 3. Upload the dataset Propertydataraw2.csv
 4. Run M5ver2.ipynb
 ## To Understand the probelsm and current ststus
-1. Open the document called "Proejct for Module 5 - draft" which is a DRAFT report which shows current progress
+1. Open the document called "771952 Disceration TH" which is a DRAFT report which shows current progress
